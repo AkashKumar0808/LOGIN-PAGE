@@ -17,12 +17,8 @@ Message boxes for feedback (success or error)
 
 🧰 Password Validation Rules
 
-Your password must contain:
+Enter:
 
-At least 8 characters
+Username: mrec
 
-At least 1 letter
-
-At least 1 number
-
-At least 1 special symbol (!@#$%^&*()_+-=[]{}|;:',.<>?/)
+Password: 1234
